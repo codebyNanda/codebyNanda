@@ -3,14 +3,14 @@
 <p align="left">
    Sou desenvolvedora FullStack atualmente focada em backend. &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">  
 </p>
-<br />
+
 <div align="center">
   <a href="https://github.com/codebyNanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyNanda&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyNanda&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
      
-<p align="left">Estas são algumas das tecnologias que trabalho:</p>
+<p align="left">Algumas das tecnologias que trabalho:</p>
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
