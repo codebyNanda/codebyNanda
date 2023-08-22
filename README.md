@@ -32,6 +32,6 @@
   <a href="https://www.linkedin.com/in/ananda-ferreira-756065156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-![snake gif](https://github.com/BMRanda/BMRanda/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/codebyNanda/codebyNanda/blob/output/github-contribution-grid-snake.svg)
 
 
