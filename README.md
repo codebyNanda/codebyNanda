@@ -1,4 +1,4 @@
-<h2>Olá! Aqui é a Nanda! 🙋🏻‍♀️</h2>
+<h2>Olá! Aqui é a Nanda!</h2> 🙋🏻‍♀️
 
 <p align="left">
    Sou desenvolvedora Fullstack atualmente focada em backend. 
