@@ -1,7 +1,7 @@
 <h2>Olá! Aqui é a Nanda! 🙋🏻‍♀️ </h2> 
 
 <p align="left">
-   Sou desenvolvedora Fullstack atualmente focada em backend. 
+   Sou desenvolvedora Full Stack atualmente focada em backend. 
    <br />
    Buscando sempre evoluir a cada dia! &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">  
 </p>
