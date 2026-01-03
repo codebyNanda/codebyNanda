@@ -29,7 +29,7 @@ Já atuei como **Full Stack**, o que me deu uma base de frontend, mas atualmente
 - Organização de código
 - Testes (básico/intermediário)
 
-### Frontend (base sólida)
+### Frontend (base)
 - HTML
 - CSS
 - React
